@@ -137,4 +137,4 @@ docker compose run dev
 
 ## Acknowledgements
 
-Cotowali is supported by 2021 Exploratory IT Human Resources Project ([The MITOU Program](https://www.ipa.go.jp/english/humandev/third.html) by IPA: Information-technology Promotion Agency, Japan.
+Cotowali is supported by 2021 Exploratory IT Human Resources Project ([The MITOU Program](https://www.ipa.go.jp/en/it-talents/mitou.html) by IPA: Information-technology Promotion Agency, Japan).
